@@ -1,0 +1,17 @@
+.table{
+    position: absolute;
+    max-width: 800px;
+    left: 150px;
+    top: 60px;
+    box-shadow: 0px 4px 20px rgba(14, 122, 165, 0.466);
+  
+  }
+  
+  
+  
+  .h3{
+   margin-left: 305px;
+   padding-top: 1rem;
+   text-shadow: skyblue 5px;
+  
+  }
